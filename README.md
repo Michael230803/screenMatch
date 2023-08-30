@@ -11,7 +11,6 @@ O Scream Match é uma aplicação Java que permite aos usuários pesquisar e exp
 Antes de começar a usar o Scream Match, você precisará ter o seguinte instalado em sua máquina:
 
 - Java SDK
-- [Biblioteca XYZ](link_para_a_biblioteca) (se aplicável)
 
 ## Como Usar
 
